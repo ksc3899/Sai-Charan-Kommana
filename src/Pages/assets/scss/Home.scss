@@ -1,0 +1,77 @@
+// Landing
+.landing {
+    position: relative;
+    background: url("../images/hero.jpg") no-repeat center;
+    background-size: cover;
+    height: 100vh;
+
+    &-inner {
+        color: white;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        justify-content: center;
+        // margin-left: 20vw;
+    }
+
+    h1 {
+        letter-spacing: 1rem;
+        text-transform: uppercase;
+    }
+
+    .lead {
+        font-size: 1.5rem;
+    }
+
+    .dark-overlay {
+        height: 100%;
+        width: 100%;
+        background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.25));
+    }
+
+    .arrow-nav {
+        display: none;
+    }
+
+    @media (min-width: 575px) {
+        .arrow-nav {
+            position: absolute;
+            display: block;
+            top: 90%;
+
+            left: 50vw;
+            transform: translate(-50%, 0);
+            text-align: center;
+
+            &-text {
+                font-size: 1.3rem;
+            }
+
+            .arrow-btn {
+                background: none;
+                border: none;
+
+                .down-arrow {
+                    background: url("../images/down-arrow.png") center no-repeat;
+                    background-size: cover;
+                    height: 30px;
+                    width: 30px;
+                }
+
+                &:focus {
+                    outline: 0;
+                }
+            }
+        }
+    }
+}
+
+.quote {
+    font-size: 1.8rem;
+    padding-bottom: 6rem;
+
+    .heading {
+        padding: 2rem 0;
+    }
+}

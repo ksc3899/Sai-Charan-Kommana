@@ -1,0 +1,17 @@
+// TODO: Make transition smooth somehow
+
+.navbar-dark {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.social-links {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+@media (min-width: 576px) {
+  .social-links {
+      display: inherit;
+  }
+}

@@ -1,0 +1,23 @@
+.section {
+    padding: 6rem 0;
+    font-size: 1.2rem;
+    text-align: left;
+
+    height: 100vh;
+
+    @media (min-width: 575px) {
+        text-align: justify;
+        height: auto;
+    }
+}
+
+.dark {
+    background: black;
+    color: white;
+}
+
+@media (max-width: 575px) {
+    .portfolio-image {
+        height: 0 !important;
+    }
+}

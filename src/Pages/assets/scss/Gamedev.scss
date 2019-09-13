@@ -1,0 +1,11 @@
+.gamedev-container {
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+.game-portfolio {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
