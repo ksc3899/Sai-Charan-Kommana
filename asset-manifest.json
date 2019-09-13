@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saicharan/static/css/main.98d09266.chunk.css",
+    "main.js": "/saicharan/static/js/main.92fab295.chunk.js",
+    "main.js.map": "/saicharan/static/js/main.92fab295.chunk.js.map",
+    "runtime~main.js": "/saicharan/static/js/runtime~main.8da39fa4.js",
+    "runtime~main.js.map": "/saicharan/static/js/runtime~main.8da39fa4.js.map",
+    "static/js/2.7aa870dc.chunk.js": "/saicharan/static/js/2.7aa870dc.chunk.js",
+    "static/js/2.7aa870dc.chunk.js.map": "/saicharan/static/js/2.7aa870dc.chunk.js.map",
+    "index.html": "/saicharan/index.html",
+    "precache-manifest.38d6a088136077b5d3f494e5b9fc4300.js": "/saicharan/precache-manifest.38d6a088136077b5d3f494e5b9fc4300.js",
+    "service-worker.js": "/saicharan/service-worker.js",
+    "static/css/main.98d09266.chunk.css.map": "/saicharan/static/css/main.98d09266.chunk.css.map",
+    "static/media/7-stones.png": "/saicharan/static/media/7-stones.260c93b9.png",
+    "static/media/Home.scss": "/saicharan/static/media/hero.4d0c761f.jpg",
+    "static/media/fruit-fight.png": "/saicharan/static/media/fruit-fight.9e41deb3.png",
+    "static/media/green-belt-certification.png": "/saicharan/static/media/green-belt-certification.4d349223.png",
+    "static/media/space-fighter.png": "/saicharan/static/media/space-fighter.92a765cb.png",
+    "static/media/survival.png": "/saicharan/static/media/survival.00f30d3e.png",
+    "static/media/tanks.png": "/saicharan/static/media/tanks.53afa1c1.png",
+    "static/media/unity-certification.png": "/saicharan/static/media/unity-certification.fc6a1536.png"
+  }
+}
