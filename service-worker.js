@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sai-Charan-Kommana/precache-manifest.a5dd230e07b7672a98e0b9870d0fe24a.js"
+  "/Sai-Charan-Kommana/precache-manifest.3e607c6648bfb157caf1f39470189c97.js"
 );
 
 self.addEventListener('message', (event) => {

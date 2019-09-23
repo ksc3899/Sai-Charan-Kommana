@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94a18e6ec8c6898b70ad9e8492e063aa",
+    "revision": "47887e42b155afe88fd9e8e9c7cd9a87",
     "url": "/Sai-Charan-Kommana/index.html"
   },
   {
-    "revision": "29c308de0004b2e602dc",
+    "revision": "5595a72ad0c9b4ad0e97",
     "url": "/Sai-Charan-Kommana/static/css/main.2b4377fe.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sai-Charan-Kommana/static/js/2.7aa870dc.chunk.js"
   },
   {
-    "revision": "29c308de0004b2e602dc",
-    "url": "/Sai-Charan-Kommana/static/js/main.14d3cb7a.chunk.js"
+    "revision": "5595a72ad0c9b4ad0e97",
+    "url": "/Sai-Charan-Kommana/static/js/main.c91392ba.chunk.js"
   },
   {
     "revision": "6dd2b4251cbd4e6023d2",
