@@ -56,7 +56,7 @@ export class Home extends Component {
 
                 <div className="container my-work"  ref={this.myRef}>
                     <h1 className="large py-5">My Work</h1>
-                    <p className="quote">Blessed with an inquisitive mind, innovation has always been my cup of tea. I have performed several research and innovation projects in fields of Mathematics and Game Development. A man with utmost dedication and focus towards his goals, I always am curiously looking forward to learning new things such as technologies and ways of life.</p>
+                    <p className="quote">Innovation has always been my cup of tea. I have not restricted myself to just one field and undertook research projects in Mathematics, Coumputer Science, Electrnoics, Game Development fields. Constantly looking for more efficient solutions to real world problems, I am all up for learning something new and experimenting.</p>
                     <table className="table py-5">
                         <thead>
                             <tr>

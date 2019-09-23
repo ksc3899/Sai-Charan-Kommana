@@ -20,7 +20,7 @@ class Gamedev extends Component {
                     <div className="game-portfolio">
                         <Card
                             title="7 Stones"
-                            description="A game-play of the classic '7 Stones' made with Unity. The main aim of this was to record the timestamps of user input in the game in a .csv file and compare it with EEG signal times to get a better understanding of the player's response time. This is a part of a research project done in International Institute of Information Technology, Hyderabad under the guidance of Dr.Kavita Vemuri."
+                            description="The classic '7 Stones' made with Unity. Aimed at recording the timestamps of player input for comparision with their EEG signals for analysis of the player's response time. This is a part of a research project done in IIIT, Hyderabad under the guidance of Dr.Kavita Vemuri."
                             link="https://youtu.be/McmPEi11KS8"
                             img={stones}
                         />
